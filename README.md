@@ -1,7 +1,7 @@
-## ✨ Roshni Kutty ✨
+## Roshni Kutty 
 
 
-  -  :lotus_position_woman:  <span>&nbsp;</span>  She/Her
+  -  ✨  <span>&nbsp;</span>  She/Her
   -  :computer:  <span>&nbsp;</span>  Fullstack Software Engineer at Pluralsight
   -  📚   <span>&nbsp;</span>  CS Graduate student
   -  🏡   <span>&nbsp;</span>  Boston, MA
