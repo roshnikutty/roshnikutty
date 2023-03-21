@@ -3,8 +3,8 @@
 
   -  ✨  <span>&nbsp;</span>  She / Her
   -  :computer:  <span>&nbsp;</span>  Fullstack Software Engineer / Data Engineer
-  -  📚 BEng, MS (Software development)
-  -  🏡   <span>&nbsp;</span>  Boston, MA
+  -  📚 <span>&nbsp;</span>  BEng, MS (Software development)
+  -  🏡 <span>&nbsp;</span>  Boston, MA
 
 
 **skills**: <span>&nbsp;</span>`javascript`<span>&nbsp;</span>`python`<span>&nbsp;</span>`react`<span>&nbsp;</span>`angular`<span>&nbsp;</span>`nodejs`<span>&nbsp;</span>`typescript`<span>&nbsp;</span>`postgres`<span>&nbsp;</span>`mongodb`<span>&nbsp;</span>`java`<span>&nbsp;</span>`html`<span>&nbsp;</span>`css`
