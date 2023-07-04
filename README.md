@@ -3,7 +3,7 @@
 
   -  ✨  <span>&nbsp;</span>  She / Her
   -  :computer:  <span>&nbsp;</span>  Fullstack Software Engineer / Data Engineer
-  -  📚 <span>&nbsp;</span>  BEng, MS (Software development)
+  -  📚 <span>&nbsp;</span>  MS (Software development), BEng
   -  🏡 <span>&nbsp;</span>  Boston, MA
 
 
