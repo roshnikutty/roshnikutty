@@ -7,6 +7,6 @@
   -  🏡 <span>&nbsp;</span>  Boston, MA
 
 
-**skills**: <span>&nbsp;</span>`javascript`<span>&nbsp;</span>`python`<span>&nbsp;</span>`react`<span>&nbsp;</span>`next.js`<span>&nbsp;</span>`angular`<span>&nbsp;</span>`nodejs`<span>&nbsp;</span>`typescript`<span>&nbsp;</span>`postgres`<span>&nbsp;</span>`mongodb`<span>&nbsp;</span>`java`<span>&nbsp;</span>`sql`<span>&nbsp;</span>`dbt`
+**skills**: <span>&nbsp;</span>`dbt`<span>&nbsp;</span>`python`<span>&nbsp;</span>`sql`<span>&nbsp;</span>`javascript`<span>&nbsp;</span>`react`<span>&nbsp;</span>`node.js`<span>&nbsp;</span>`typescript`<span>&nbsp;</span>`postgres`<span>&nbsp;</span>`mongodb`<span>&nbsp;</span>`java`<span>&nbsp;</span>`angular`<span>&nbsp;</span>`next.js`
 
-**tools**: <span>&nbsp;</span>`git`<span>&nbsp;</span>`airflow`<span>&nbsp;</span>`kubernetes`<span>&nbsp;</span>`docker`<span>&nbsp;</span>`gitlab`
+**tools**: <span>&nbsp;</span>`Git`<span>&nbsp;</span>`GiHub Actions`<span>&nbsp;</span>`Kafka`<span>&nbsp;</span>`AWS`<span>&nbsp;</span>`Airflow`<span>&nbsp;</span>`Kubernetes`<span>&nbsp;</span>`Docker`<span>&nbsp;</span>`Gitlab`
