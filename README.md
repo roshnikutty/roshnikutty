@@ -3,7 +3,7 @@
 
   -  ✨  <span>&nbsp;</span>  She / Her
   -  :computer:  <span>&nbsp;</span>  Software -> Data Engineer
-  -  📚 <span>&nbsp;</span>  MS (Software development), BEng
+  -  📚 <span>&nbsp;</span>  MS, BE (software, electronics engineering)
   -  🏡 <span>&nbsp;</span>  Boston, MA
 
 
