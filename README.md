@@ -9,6 +9,6 @@
 
 **skills**: <span>&nbsp;</span>`dbt`<span>&nbsp;</span>`python`<span>&nbsp;</span>`sql`<span>&nbsp;</span>`javascript`<span>&nbsp;</span>`react`<span>&nbsp;</span>`node.js`<span>&nbsp;</span>`typescript`<span>&nbsp;</span>`postgres`<span>&nbsp;</span>`mongodb`<span>&nbsp;</span>`java`<span>&nbsp;</span>`angular`<span>&nbsp;</span>`next.js`
 
-**tools**: <span>&nbsp;</span>`Snowflake`<span>&nbsp;</span>`Git`<span>&nbsp;</span>`GiHub Actions`<span>&nbsp;</span>`Kafka`<span>&nbsp;</span>`AWS`<span>&nbsp;</span>`Airflow`<span>&nbsp;`Dagster`<span>&nbsp;</span>`Kubernetes`<span>&nbsp;</span>`Docker`<span>&nbsp;</span>`Gitlab`
+**tools**: <span>&nbsp;</span>`Snowflake`<span>&nbsp;</span>`Git`<span>&nbsp;</span>`GiHub Actions`<span>&nbsp;</span>`Kafka`<span>&nbsp;</span>`AWS`<span>&nbsp;</span>`Airflow`<span>&nbsp;`Dagster`<span>&nbsp;</span>`Kubernetes`<span>&nbsp;</span>`Docker`<span>&nbsp;</span>`Gitlab`<span>&nbsp;</span>`Terraform`
 
 [LinkedIn](https://www.linkedin.com/in/roshnikutty)
