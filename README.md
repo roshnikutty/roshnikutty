@@ -1,5 +1,4 @@
 # Roshni Kutty
-* ✨   She / Her
 * 💻   Data Engineer | Building AI-Enabled Data Pipelines
 * 📚   MS, BE (Software, Electronics Engineering)
 * 🏡   Boston, MA
@@ -9,7 +8,7 @@ Data pipelines that power analytics and AI — connecting diverse sources (platf
 
 ## 💡 Current focus
 - 🤖 AI-enabled data pipelines with RAG capabilities for intelligent data transformation
-- 🔄 SharePoint → Snowflake integration using Microsoft Graph API & modern orchestration
+- 🔄 Various platforms → Snowflake integration using Microsoft Graph API & modern orchestration
 - 🔍 Enterprise data integration platform evaluation (Fivetran, Airbyte)
 - 📊 Building resilient data infrastructure for analytics teams
 
@@ -39,19 +38,7 @@ cloud: AWS (various services)
 ```
 databases: MongoDB | PostgreSQL
 web: React | Next.js | Angular | Node.js | TypeScript | JavaScript
-legacy: Java
 ```
-
-## 🌟 Featured Work
-
-### AI-Enabled Data Infrastructure
-Building modern data pipelines that leverage LLMs and RAG for intelligent data transformation and analytics acceleration.
-
-### Nonprofit Tech: Volunteer Ventures
-Technical infrastructure and data visualizations for a nonprofit campaign connecting volunteers with community organizations through library events and virtual sessions.
-
-### Enterprise Data Integration
-Architecting scalable SharePoint-to-Snowflake pipelines with proper RAW → STAGING → ANALYTICS layer separation, handling complex nested data structures and authentication flows.
 
 ---
 
