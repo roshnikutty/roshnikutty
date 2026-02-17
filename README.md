@@ -42,6 +42,6 @@ web: React | Next.js | Angular | Node.js | TypeScript | JavaScript
 
 ---
 
-📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/your-profile)
+📫 [LinkedIn](https://linkedin.com/in/your-profile)
 
 💬 Open to collaborating on: data engineering projects, AI/ML data infrastructure, nonprofit tech initiatives
