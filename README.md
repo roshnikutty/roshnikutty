@@ -4,7 +4,7 @@
 * 🏡   Boston, MA
 
 ## 🔭 What I'm building
-Data pipelines that power analytics and AI — connecting diverse sources (platforms, APIs, databases) to cloud data warehouses with modern ELT architecture. Currently exploring RAG-enabled transformations and evaluating enterprise data integration platforms.
+Data pipelines that power analytics and AI — connecting diverse sources (platforms, APIs, databases) to cloud data warehouses with modern ELT architecture. Exploring RAG-enabled transformations and evaluating enterprise data integration platforms.
 
 ## 💡 Current focus
 - 🤖 AI-enabled data pipelines with RAG capabilities for intelligent data transformation
