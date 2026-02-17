@@ -1,6 +1,6 @@
 # Roshni Kutty
 * 💻   Data Engineer | Building AI-Enabled Data Pipelines
-* 📚   MS, BE (Software, Electronics Engineering)
+* 📚   MS, BE (Software Engineering)
 * 🏡   Boston, MA
 
 ## 🔭 What I'm building
@@ -43,5 +43,3 @@ web: React | Next.js | Angular | Node.js | TypeScript | JavaScript
 ---
 
 📫 [LinkedIn](https://linkedin.com/in/your-profile)
-
-💬 Open to collaborating on: data engineering projects, AI/ML data infrastructure, nonprofit tech initiatives
