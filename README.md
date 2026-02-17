@@ -4,7 +4,7 @@
 * 🏡   Boston, MA
 
 ## 🔭 What I'm building
-Data pipelines that power analytics and AI — connecting diverse sources (platforms, APIs, databases) to cloud data warehouses with modern ELT architecture. Exploring RAG-enabled transformations and evaluating enterprise data integration platforms.
+Data pipelines that power analytics and AI -- connecting diverse sources (platforms, APIs, databases) to cloud data warehouses with modern ELT architecture.
 
 ## 💡 Current focus
 - 🤖 AI-enabled data pipelines with RAG capabilities for intelligent data transformation
@@ -18,7 +18,7 @@ Data pipelines that power analytics and AI — connecting diverse sources (platf
 ```
 core: dbt | python | sql | postgres
 orchestration: Airflow | Dagster | Kafka
-platforms: Snowflake | AWS | SharePoint
+platform: Snowflake | AWS | Databricks
 integration: Fivetran | Airbyte | Microsoft Graph API
 ```
 
@@ -37,7 +37,7 @@ cloud: AWS (various services)
 **Other Technologies**
 ```
 databases: MongoDB | PostgreSQL
-web: React | Next.js | Angular | Node.js | TypeScript | JavaScript
+web: TypeScript | Node.js | React | JavaScript | Next.js | Angular
 ```
 
 ---
